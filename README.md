@@ -15,7 +15,7 @@
 </p>
 
 <p>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LeEHaNa1&layout=donut" align="left">
+  <img src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeEHaNa1&layout=donut" align="left">
   <p>
     > 관심 분야 : 네트워크, 백엔드
   </p>
